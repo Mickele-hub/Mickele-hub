@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Odoo development 🚀 | Python 🐍 | ERP module customization ⚙️ | Workflow automation 💼**
 
-- 👨‍💻 All of my projects are available at [https://dev-portfolio-mickele.vercel.app](https://dev-portfolio-mickele.vercel.app) and [https://dev-portfolio-mickele.vercel.app](https://mickele-admin.vercel.app)
+- 👨‍💻 All of my projects are available at [https://dev-portfolio-mickele.vercel.app](https://dev-portfolio-mickele.vercel.app) and [https://mickele-admin.vercel.app](https://mickele-admin.vercel.app)
 
 - 💬 Ask me about **🖥 System & Network Administration 🌐 Full-stack JavaScript (Next.js, Node.js, Nest) 📱 Mobile development with Flutter**
 
